@@ -1,0 +1,15 @@
+C:\Users\knafi\Desktop\C# tutorial\bin\Debug\net6.0\C# tutorial.exe
+C:\Users\knafi\Desktop\C# tutorial\bin\Debug\net6.0\C# tutorial.deps.json
+C:\Users\knafi\Desktop\C# tutorial\bin\Debug\net6.0\C# tutorial.runtimeconfig.json
+C:\Users\knafi\Desktop\C# tutorial\bin\Debug\net6.0\C# tutorial.dll
+C:\Users\knafi\Desktop\C# tutorial\bin\Debug\net6.0\C# tutorial.pdb
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.csproj.AssemblyReference.cache
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.AssemblyInfoInputs.cache
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.AssemblyInfo.cs
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.csproj.CoreCompileInputs.cache
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.dll
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\refint\C# tutorial.dll
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.pdb
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\C# tutorial.genruntimeconfig.cache
+C:\Users\knafi\Desktop\C# tutorial\obj\Debug\net6.0\ref\C# tutorial.dll
