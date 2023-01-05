@@ -1,1 +1,3 @@
 This is a text file which is updated and need to merge
+
+This is the second line I am adding to push to the GitHub.
