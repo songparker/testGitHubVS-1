@@ -1,6 +1,7 @@
 # testGitHubVS
 This is a test repository for adding GitHub with Visual Studio C# project
 
+
 ## testing Master Branch
 This file is changed to testing GitHub push application
 
@@ -11,3 +12,7 @@ This file is changed to testing GitHub push application from Office Computer One
 This file is changed to testing GitHub push application from Office Computer Two
 
 ##testing merge
+
+## test GitHubVS for member One
+This page is created to see the impact of GitHub Pull Request and Merge
+
